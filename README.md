@@ -14,14 +14,6 @@
 * **Error Handling:** Robust validation for non-numeric inputs or empty fields.
 * **Multi-Screen Navigation:** Separate screens for different calculation types.
 
-## 📱 Screenshots
-
-| Home Screen | Calculation | Results |
-|:-----------:|:-----------:|:-------:|
-| <img src="assets/screen1.png" width="200"> | <img src="assets/screen2.png" width="200"> | <img src="assets/screen3.png" width="200"> |
-
-*(Note: You can add your screenshots to an 'assets' folder and uncomment the lines above to display them)*
-
 ## 🛠️ Built With
 
 * [Flutter](https://flutter.dev/) - UI Toolkit
@@ -49,11 +41,11 @@
     flutter run
     ```
 
-## 👨‍💻 Author
+## Author
 
 **Mustafa Arslan**
 * Information Systems and Technologies Student
-* [LinkedIn](https://www.linkedin.com/) (Add your link here)
+* [LinkedIn](https://www.linkedin.com/in/mustafa-arslan-b05725257/) 
 
 ---
 
