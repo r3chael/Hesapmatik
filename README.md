@@ -1,8 +1,8 @@
-# 🧮 Hesapmatik
+# Hesapmatik
 
 **Hesapmatik** is a mobile statistical calculator application built with **Flutter**. It allows users to easily calculate complex statistical values such as Standard Deviation, Variance, Mean, Median, and Mode by simply entering a data set.
 
-## 🚀 Features
+## Features
 
 * **Advanced Calculations:**
     * Standard Deviation (Sample & Population)
@@ -14,12 +14,12 @@
 * **Error Handling:** Robust validation for non-numeric inputs or empty fields.
 * **Multi-Screen Navigation:** Separate screens for different calculation types.
 
-## 🛠️ Built With
+## Built With
 
 * [Flutter](https://flutter.dev/) - UI Toolkit
 * [Dart](https://dart.dev/) - Programming Language
 
-## ⚙️ Installation
+## Installation
 
 1.  **Clone the repository**
     ```bash
